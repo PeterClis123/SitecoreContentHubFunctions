@@ -1,6 +1,6 @@
 ﻿namespace Company.Domain.Common
 {
-    public class Class1
+    public static class Constants
     {
 
     }

@@ -1,7 +1,12 @@
 {
     "IsEncrypted": false,
     "Values": {
-        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+      "ContentHubHost": "https://yoursandbox.sitecoresandbox.cloud/",
+      "ContentHubClientId": "LocalClientId",
+      "ContentHubClientSecret": "LocalClientSecret",
+      "ContentHubUserName": "LocalFunctionAPIUserName",
+      "ContentHubPassword": "YourLocalUserPassword!"
     }
 }
